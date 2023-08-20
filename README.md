@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![interior-consultan](https://github.com/JuanOsccoMori/interior-consultant/assets/58866695/45e1281b-329c-4087-a74f-383514c55994)
 
 This experience of developing this landing page took me more time than usual, I worked hard, I liked the challenge even though it is for an apprentice, it has its complications, especially in the images and the header, I worked a lot on the sass and the html
 
